@@ -20,10 +20,3 @@ PowerApps License and access to PowerApps to import an app
 
 SharePoint Site Collection
 
-# App Screenshots
-User Survey Form(for employees)
-![image](https://user-images.githubusercontent.com/9557557/118375915-6e23ac00-b5e2-11eb-88e7-e66974cbaac2.png)
-
-Dashboard for Admin/HR Users(configurable in list who can see this)
-![image](https://user-images.githubusercontent.com/9557557/118375929-8b587a80-b5e2-11eb-99ec-2097b30e5af1.png)
-
